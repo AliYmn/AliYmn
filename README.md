@@ -1,6 +1,6 @@
-### Hey 👋, I'm Ali Yaman    [![Github](https://img.shields.io/github/followers/AliYmn?label=Follow&style=social)](https://github.com/AliYmn)
+### Hey 👋, I'm Ali Yaman
 
-More details on [aliyaman.com.tr](https://aliyaman.com.tr/). 
+More details on [aliyaman.com.tr](https://aliyaman.com.tr/)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliYmn&hide=html)
