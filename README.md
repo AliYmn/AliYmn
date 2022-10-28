@@ -1,4 +1,4 @@
-#### <div align=center > Hi, welcome to my <b>GitHub</b> profile! 👋
+### <div align=center > Hi, welcome to my <b>GitHub</b> profile! 👋
 
 In my free time, I'm going to support and maintain open source projects also if truth be told, my favorite language is Python!
 
