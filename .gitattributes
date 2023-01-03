@@ -1,0 +1,8 @@
+*.html linguist-vendored
+*.html linguist-vendored
+*.htm linguist-vendored
+*.js linguist-vendored
+fastlane/* linguist-vendored
+Pods/* linguist-vendored
+*.h linguist-language=Objective-C
+*.m linguist-language=Objective-C
