@@ -10,3 +10,4 @@ I like the challenge of code somewhat in a programming language without knowing 
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=AliYmn&theme=gotham&hide_border=true&background=FFFFFF00">
 </p>
   
+![FarOldElephantbeetle-small](https://user-images.githubusercontent.com/31243845/121403666-cc367b80-c963-11eb-8d99-756261926fbf.gif)
