@@ -9,5 +9,3 @@ I like the challenge of code somewhat in a programming language without knowing 
   <img height="50%" width="35%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=AliYmn&layout=compact&hide_border=true&theme=gotham&bg_color=00000000&langs_count=8&hide=html,css,gdscript,javascript">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=AliYmn&theme=gotham&hide_border=true&background=FFFFFF00">
 </p>
-  
-![FarOldElephantbeetle-small](https://user-images.githubusercontent.com/31243845/121403666-cc367b80-c963-11eb-8d99-756261926fbf.gif)
