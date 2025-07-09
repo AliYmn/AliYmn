@@ -168,8 +168,6 @@ class AliYaman:
 
 *Made with ❤️ and lots of ☕ by Ali Yaman*
 
-</div>
+**Happy Coding! 🚀 • Let's Connect and Build Together! • Open Source = Open Heart ❤️**
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Happy+Coding!+🚀;Let's+Connect+and+Build+Together!;Open+Source+%3D+Open+Heart+❤️" alt="Footer" />
 </div>
