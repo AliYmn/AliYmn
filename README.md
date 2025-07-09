@@ -25,8 +25,8 @@ class AliYaman:
         self.role = "Senior Python Developer & Backend Architect"
         self.location = "Istanbul, Türkiye 🇹🇷"
         self.experience = "5+ years"
-        self.passion = ["Clean Code", "Scalable Systems", "AI/ML", "Open Source"]
-        self.current_focus = "Building next-gen backend systems with AI integration"
+        self.passion = ["Clean Code", "Scalable Systems", "AI/ML", "Blockchain", "Open Source"]
+        self.current_focus = "Building next-gen AI-powered backend systems & exploring Web3"
         self.philosophy = "Code with purpose, lift with passion 💪"
         
     def get_tech_stack(self):
@@ -35,7 +35,8 @@ class AliYaman:
             "frameworks": ["FastAPI", "Django", "Flask", "React"],
             "databases": ["PostgreSQL", "MongoDB", "Redis", "ElasticSearch"],
             "cloud": ["AWS", "Docker", "Kubernetes", "Terraform"],
-            "ai_ml": ["TensorFlow", "PyTorch", "OpenAI", "Langchain"],
+            "ai_ml": ["TensorFlow", "PyTorch", "OpenAI", "Langchain", "Hugging Face"],
+            "blockchain": ["Ethereum", "Solidity", "Web3.py", "Smart Contracts"],
             "tools": ["Git", "GitHub Actions", "Grafana", "Prometheus"]
         }
     
@@ -43,8 +44,9 @@ class AliYaman:
         return [
             "☕ Coffee-driven development",
             "🔧 Architect scalable systems",
+            "🤖 Explore AI/ML & LLM innovations",
+            "⛓️ Dive into blockchain technology",
             "💪 Gym session (consistency is key!)",
-            "🤖 Explore AI/ML innovations",
             "🐛 Debug with precision",
             "📝 Contribute to open source",
             "🎯 Solve real-world problems"
@@ -75,6 +77,13 @@ class AliYaman:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
+
+### 🔗 Blockchain & Web3
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Web3.py](https://img.shields.io/badge/Web3.py-F16822?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🔧 Development Tools
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -112,25 +121,16 @@ class AliYaman:
 | 🔥 **Hot Projects** | 🚀 **Learning** | 💡 **Exploring** |
 |:---:|:---:|:---:|
 | Scalable Microservices | AI/ML Integration | Blockchain Development |
-| Real-time Analytics | Cloud-Native Architecture | Edge Computing |
-| API Performance Optimization | Advanced Python Patterns | Quantum Computing |
+| Real-time Analytics | Cloud-Native Architecture | Large Language Models (LLMs) |
+| API Performance Optimization | Advanced Python Patterns | Machine Learning Operations |
+| LLM-powered Applications | Kubernetes Advanced Patterns | Web3 & Smart Contracts |
+| AI Model Deployment | Distributed Systems | Neural Network Architecture |
 
 </div>
 
-## 📈 Contribution Heatmap
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/00D4FF/AliYmn" alt="GitHub Contribution Chart" />
-</div>
 
-## 🌟 Featured Projects
 
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AliYmn&repo=your-awesome-project&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/AliYmn/your-awesome-project)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AliYmn&repo=another-cool-project&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/AliYmn/another-cool-project)
-
-</div>
 
 ## 📱 Connect With Me
 
@@ -143,33 +143,7 @@ class AliYaman:
 
 </div>
 
-## 💼 Professional Summary
 
-```yaml
-experience:
-  - role: "Senior Python Developer"
-    focus: "Backend Architecture & System Design"
-    expertise: ["API Development", "Database Optimization", "Cloud Solutions"]
-  
-  - role: "DevOps Enthusiast"
-    focus: "Infrastructure as Code & CI/CD"
-    expertise: ["Docker", "Kubernetes", "AWS", "Terraform"]
-  
-  - role: "AI/ML Explorer"
-    focus: "Integrating AI into Real-world Applications"
-    expertise: ["LLM Integration", "RAG Systems", "Model Deployment"]
-
-achievements:
-  - "Built scalable systems handling 1M+ requests/day"
-  - "Reduced API response time by 70% through optimization"
-  - "Implemented ML models serving 100K+ users"
-  - "Active contributor to 20+ open source projects"
-
-certifications:
-  - "AWS Certified Solutions Architect"
-  - "Python Institute Certified Professional"
-  - "Kubernetes Administrator (CKA)"
-```
 
 ## 🎨 Fun Facts
 
@@ -178,32 +152,15 @@ certifications:
 - ☕ **Coffee Consumption**: ~5 cups/day (optimized for peak performance)
 - 🌙 **Night Owl**: Best code is written after 10 PM
 - 🎮 **Gaming**: Competitive programming is my favorite game
-- 📚 **Learning**: Currently exploring Web3 and Quantum Computing
+- 📚 **Learning**: Currently exploring Web3, LLMs, and Quantum Computing
+- 🤖 **AI Enthusiast**: Building the future with Large Language Models
+- ⛓️ **Blockchain Believer**: Decentralization is the future
 
-## 📊 Weekly Development Breakdown
 
-```text
-Python       ████████████████████████████████ 75%
-JavaScript   ████████████████████             15%
-Go           ████████                          5%
-DevOps       ████████                          5%
-```
 
-## 🎵 Coding Playlist
 
-<div align="center">
-
-*"Good code is its own best documentation"* - Steve McConnell
-
-**Currently Listening To:** Lo-fi Hip Hop Radio 🎵
-
-</div>
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Let's%20build%20something%20amazing%20together&descAlignY=51&descAlign=center" />
-</div>
 
 <div align="center">
   
