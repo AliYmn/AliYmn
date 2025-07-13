@@ -1,53 +1,69 @@
-# 👋 Hi, I'm Ali Yaman
+# 👋 Hey there, I'm Ali Yaman!
 
-**Senior Python Developer** | **Backend & AI Engineer**  
-📍 Istanbul, Türkiye • 💻 Passionate about building scalable & intelligent systems
-
----
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Senior+Python+Developer;Backend+%26+AI+Engineer;Scalable+Systems+Enthusiast;Generative+AI+Explorer" alt="Typing SVG" />
+</div>
 
 ## 🚀 About Me
 
-I'm a backend-focused Python developer with 5+ years of experience designing high-performance systems using:
+I'm a Python developer with over 5 years of professional experience in backend development and scalable system design.  
+I specialize in high-performance APIs, asynchronous task management, and AI-driven backend services.
 
-- 🐍 Python (Django, FastAPI, DRF)
-- 📊 Scalable Architectures & Microservices
-- 🤖 AI & LLM-powered Applications (OpenAI, Hugging Face, LangChain)
-- 🧩 Asynchronous Task Queues (Celery, RabbitMQ)
-- 🗃️ PostgreSQL, Redis, ElasticSearch
+- 🧠 Exploring **LLMs**, **LangChain**, **Generative AI**
+- 🏗️ Designing **microservices** & **event-driven architectures**
+- 📊 Optimizing **PostgreSQL**, **Redis**, and **ElasticSearch** usage
+- 🎯 Fan of clean, testable, and maintainable code
 
-> I love solving real-world problems with clean code, and continuously explore Generative AI & large-scale backend systems.
-
----
-
-## 💼 Skills at a Glance
-
-| Domain         | Stack                                                                 |
-|----------------|-----------------------------------------------------------------------|
-| **Backend**    | Python, Django, FastAPI, DRF, Celery, RabbitMQ                        |
-| **Data**       | PostgreSQL, Redis, SQLAlchemy, ElasticSearch                          |
-| **AI/ML**      | OpenAI, Hugging Face, LangChain, Prompt Engineering                   |
-| **Monitoring** | APM, Sentry, Flower                                                   |
-| **Others**     | Microservice Design, REST APIs, GitHub Actions                        |
+> I care about writing meaningful software that makes a difference.
 
 ---
 
-## 📈 GitHub Stats
+## 💼 Tech Stack
 
-<p align="center">
+| Area         | Tools & Technologies                                                                 |
+|--------------|----------------------------------------------------------------------------------------|
+| **Backend**  | Python, Django, FastAPI, DRF, Celery, RabbitMQ                                         |
+| **Database** | PostgreSQL, Redis, SQLAlchemy, MongoDB, ElasticSearch                                  |
+| **AI/LLM**   | OpenAI, Hugging Face, LangChain, Prompt Engineering                                    |
+| **Testing**  | Pytest, Postman, FactoryBoy, Unit & Integration Tests                                  |
+| **Monitoring** | Sentry, APM, Flower                                                                  |
+| **CI/CD**    | GitHub Actions, Docker (light usage for dev/testing)                                   |
+
+---
+
+## 🧠 Interests
+
+- ✅ Scalable Backend Systems
+- 🤖 LLM-integrated Applications
+- 🧩 Microservice Patterns & Messaging Queues
+- 📈 Performance Profiling & Monitoring
+- 🧪 AI x Backend Product Development
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AliYmn&show_icons=true&theme=react&hide_border=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliYmn&layout=compact&theme=react&hide_border=true" height="160"/>
-</p>
+</div>
 
 ---
 
-## 📬 Let's Connect
+## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aliyaman)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AliYmn)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aliymn.db@gmail.com)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aliyaman)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AliYmn)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliymn.db@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aliyaman)
+
+</div>
 
 ---
 
 <p align="center">
-  <em>“Clean code, strong systems, smarter AI.”</em>
+  <em>“Strong code, scalable logic, smart systems.”</em><br/>
+  <sub>Made with ☕ and ❤️ by Ali Yaman</sub>
 </p>
