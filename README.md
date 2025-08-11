@@ -14,7 +14,7 @@ I specialize in high-performance APIs, asynchronous task management, and AI-driv
 - 📊 Optimizing **PostgreSQL**, **Redis**, and **ElasticSearch** usage
 - 🎯 Fan of clean, testable, and maintainable code
 
-> I care about writing meaningful software that makes a difference.
+> I care about writing meaningful software that makes a difference
 
 ---
 
