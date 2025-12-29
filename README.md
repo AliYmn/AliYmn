@@ -44,8 +44,9 @@ I specialize in high-performance APIs, asynchronous task management, and AI-driv
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliYmn&show_icons=true&theme=react&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliYmn&layout=compact&theme=react&hide_border=true" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliYmn&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AliYmn&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AliYmn&theme=github_dark"/>
 </div>
 
 ---
