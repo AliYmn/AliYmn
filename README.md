@@ -23,12 +23,6 @@ Lately, I've been deep into **AI/LLM integration** — building multi-agent syst
 
 ---
 
-**Currently building**
-
-🔬 AI-powered educational content systems — multi-agent architectures and automated video generation pipelines.
-
----
-
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliYmn&theme=github_dark"/>
 </div>
