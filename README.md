@@ -11,7 +11,7 @@
 
 **Senior Python Backend Engineer** building scalable, high-performance systems.
 
-5+ years crafting backend services with Python, Django, FastAPI, and Celery. I design microservices, optimize databases, and keep production systems running smoothly with Kubernetes, PostgreSQL, Redis, and proper observability.
+6+ years crafting backend services with Python, Django, FastAPI, and Celery. I design microservices, optimize databases, and keep production systems running smoothly with Kubernetes, PostgreSQL, Redis, and proper observability.
 
 Lately, I've been deep into **AI/LLM integration** — building multi-agent systems, automated pipelines, and exploring how LangChain/LangGraph can power intelligent backend services.
 
