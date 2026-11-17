@@ -9,7 +9,7 @@
 
 ---
 
-**Senior Python Backend Engineer** building scalable, high-performance systems.
+**Senior Software Engineer** building scalable, high-performance systems.
 
 7+ years crafting backend services with Python, Django, FastAPI, and Celery. I design microservices, optimize databases, and keep production systems running smoothly with Kubernetes, PostgreSQL, Redis, and proper observability.
 
